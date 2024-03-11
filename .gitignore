@@ -23,7 +23,6 @@ output18.txt
 output19.txt
 output20.txt
 skiplist.sln
-test.txt
 .vs/skiplist/FileContentIndex/55078218-d786-42d2-877c-2944e1b00661.vsidx
 .vs/skiplist/FileContentIndex/fe574604-4e56-4d34-aae8-0ffbac22698d.vsidx
 .vs/skiplist/FileContentIndex/read.lock
@@ -70,3 +69,7 @@ x64/Debug/Ⅰ.1  跳表实现与分析.tlog/Ⅰ.1  跳表实现与分析.lastbui
 x64/Debug/Ⅰ.1  跳表实现与分析.tlog/link.command.1.tlog
 x64/Debug/Ⅰ.1  跳表实现与分析.tlog/link.read.1.tlog
 x64/Debug/Ⅰ.1  跳表实现与分析.tlog/link.write.1.tlog
+.vs/skiplist/FileContentIndex/0e10aab4-83aa-4d78-be67-a9188f98ec4a.vsidx
+.vs/skiplist/FileContentIndex/52f1fb28-90a1-43eb-b345-e4928aafce60.vsidx
+.vs/skiplist/FileContentIndex/0317c99b-af3d-4770-a770-9c801a4d58b6.vsidx
+.vs/skiplist/FileContentIndex/da4b9ef1-2dd1-4771-b58d-95d41203fe3e.vsidx

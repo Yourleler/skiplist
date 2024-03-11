@@ -50,12 +50,13 @@ private:
     
 public:
     Strictskiplist(K maxkey = 0, int maxnum = 0, double prob = 0.5);
-    Strictskiplist(vector<pair<K, E>> arr, K maxkey = 0, int maxnum = 0, double prob = 0.5);
+    Strictskiplist(int i,vector<pair<K, E>> arr, K maxkey = 0, int maxnum = 0, double prob = 0.5);
     skipnode<K, E>* search(K key);
     skipnode<K, E>* search1(K key);
     pair<K, E>* find(const K& key);//查找
     int getlevel();//插入的时候获取层数
     void insert(pair<K, E> thepair, int level = 0);//插入
+    void insert1(pair<K, E> thepair, int level = 0);//插入
     void erase(const K& key);//删除指定元素
     void erasemax();//删除最大元素
     void erasemin();//删除最小元素
